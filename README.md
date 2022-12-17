@@ -1,4 +1,4 @@
-# Stock-price-maruti
+# forecasting using CNN
 performance Comparison of various models
 Download the Maruti.NS.csv file and import into your notebook and run the code 
 the data looks like this===>
